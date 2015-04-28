@@ -1,0 +1,19 @@
+Title: Survival Trials
+Descr: Take control of a group of survivors in a Dwarf Fortress styled game.
+
+Title: Three3
+Descr: FPS inside of a cube, each cube surface has gravity pulling towards it making for unique battle conditions.
+
+Title: (WIP) Pantheon War
+Descr: (WIP) Build a god based on a pantheon of your choice. Choose skills, perks, and style from the pantheon of choice.
+  Engage in a war to spread your pantheon and it's influence. You can convert NPCs into followers who fight for you 
+  (levelling as they win) and spread your influence to convert other's land into your promise land.
+  Possibly include a mix of real and invented pantheons.
+
+Title: AlcCalc
+Descr: App to store drink recipes and calculate the alcoholic content of said drink.
+  Also allows user to track current drink consumption for a rough estimate on BAC.
+
+Title: who fucking knows.
+Descr: FPS where you play a modern soldier thrown back to medieval times. Use modern weapons to engage all manner of midieval warrior.
+  Eventually begin engaging more fantasy creatures, such as elves, orcs, trolls, wizards and even dragons.
